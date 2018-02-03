@@ -1,1 +1,0 @@
-# OK_Winston_MongoDB
